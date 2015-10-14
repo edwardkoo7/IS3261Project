@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IS3261Project</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="messagereminder">Set reminder to send a Message</string>
+
+</resources>
